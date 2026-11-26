@@ -1,5 +1,5 @@
 # Hi, I'm Vithoun Sihavong 👋
-
+📃
 Mindset is me "you can do it i'm can do it again" • Learn and Go ❤
 
 ---
@@ -16,7 +16,7 @@ Mindset is me "you can do it i'm can do it again" • Learn and Go ❤
   
 ### Core areas
 - 🔭 **I’m currently working on:** Web3 identity layers and direct decentralized platforms.
-- 🌱 **I’m learning:** Advanced smart contract optimization and security frameworks.
+- 📃**I’m learning:** Advanced smart contract optimization and security frameworks.
 - 💬 **Ask me about:** Blockchain technology, decentralized tokenomics, and permission controls.
 - ⚡ **Fun fact:** I analyze structures directly and prefer sketching solutions using a standard pen without guidelines.
 
